@@ -1,2 +1,2 @@
-# project-starter-stack-overflow-clone
-Project starter for cloning stack overflow
+# Project Starter
+Project starter for Express Group Project
