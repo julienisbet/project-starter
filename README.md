@@ -2,7 +2,7 @@
 Project resources for the Express Project.
 
 * [Group List with Advisors](https://docs.google.com/spreadsheets/d/1cuqDdiBtz3DBAzUR-mxddjtDDtHYJE4QXGO3UySvpTI/edit#gid=0)
-* [Using Git Guide]('./using-git.md)
+* [Using Git Guide](./using-git.md)
 * [Example Feature List](./feature-planning-sample) Shout out / thank you to Erin, Jaron, James and Ben!!
 
 ## To Do Friday
