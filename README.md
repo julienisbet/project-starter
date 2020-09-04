@@ -8,8 +8,10 @@ Project resources for the Express Project.
 ## To Do Friday
 * Setup your Github repo
 * Finalize your feature list
-* Send your feature list / github repo to your advisor (even better -- add your advisor as a collaborator on your repo!)
-* Add a github issue for each of the features that you're planning to work on
+* Upload your feature list to you github repo
+* Add your advisor as a collaborator on your repo
+* Add your repo link to the group spreadsheet
+* (Optional but highly recommended) Add a github issue for each of the features that you're planning to work on
 * (Optional but highly recommended) Develop detailed acceptance criteria for at least one feature
 
 ## Daily Schedule
