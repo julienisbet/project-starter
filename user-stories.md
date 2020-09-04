@@ -11,7 +11,14 @@ Acceptance criteria defines the boundaries of the user story. We use acceptance 
 ​
 # Authorization User Stories
 Note: these stories assumes there is a User model / database  available, with an email, username and password field -- generally, model creation would be included as part of a story but since the user is such a building block, it may make sense to pair on that and get it done ASAP.
-​
+​## Acceptance Criteria Development Process
+1. Take 5 minutes and think about what questions you have about the story -- think about both the "happy path" (i.e nothing goes wrong) as well as the edge cases
+2. Go around the group and have each team member list their questions and keep a running list -- group similar questions together -- note, do not answer questions during the portion, you're just gathering all the outstanding questions into one place
+3. Discuss / debate / agree on the answers to the questions
+4. Use the questions / answers to develop the acceptance criteria for the story
+
+# Let's Practice!
+
 ## As an unauthorized user, I want to be able to login to the website, via a form, in order to access my private information
 ​
 #### Questions
