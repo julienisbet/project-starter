@@ -1,4 +1,4 @@
-# Project Management
+# User Stories
 For your project, we encourage you to utilize user stories and acceptance criteria for planning your work. As a reminder, there are two main messages 
 a user story should convey:
 ​
